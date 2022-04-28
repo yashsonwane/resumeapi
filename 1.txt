@@ -1,0 +1,66 @@
+Rituparna Mukherjee
+Roy road haringhata ward no-3. Nadia, Kolkata, 741249 (IN)
+rituparnam386@gmail.com
+C +918617365791
+EProfessional Summary
+Languages
+I am a fresher Btech cse grad engineer looking for oppurtunity
+especially in Data science and machine learning and research
+also i am efficient in front end technologies and i love predictive
+modelling data visualization and data analysis
+English
+English
+Employment history
+Hindi
+Data analyst intern, MedTourEasy. Remote
+Oct. 2020 - Present
+Bengali
+Analysis of credit card risk data using power bi and prective
+modellibg of blood donation by individuals using machine
+learning algorithms
+German
+Python programmer, Codespeedy technologies pvt.Itd.
+Remote, West Bengal
+Jun. 2020 - Aug. 2020
+E Skills
+Working on python programming techniques machine learning
+techniques specifically feature engineering pipeline and python
+library pandas and numpy for exploratory data analysis of
+dataset usibg pandas profilling
+any
+Java
+Intern lot developer, Pcs global pvt Itd. Kolkata, West
+Bengal
+Jun. 2019 - Jul. 2019
+Sql
+Building a wireless weather station
+Specifically work on frontend part to build website to access
+Power bi
+sensors
+Use of pir sensor light led sensor and nodemcu
+Tableau
+EEducation
+Javascript
+Maulana Abul Kalam Azad University of Technology, West
+Bengal, Kalyani, West Bengal
+Master of Science, Mtech (Data Science), Present
+Css
+Amity university kolkata, Kolkata, West Bengal
+Bachelor of Science, Computer science engineering, Sep. 2020
+Html
+E Accomplishments
+Data visualization
+Two badge owner in sql from Hackerrank
+One badge owner in python from Hackerrank
+Bagdeowner in Machine learning from IBM
+Badgeowner in tensorflow programming using deep learning
+from IBM
+Рython
+Machine learning
+E Additional information
+Sumner school on iot and data science from jadavpur university
+Nptel certification on python using Data Structures
+Project on work on tidy data using python from Data camp
+Introduction to neural networks from analytics vidya
+Power Bi desktop certification from Coursera
+Transfer learning guided project from Coursera
